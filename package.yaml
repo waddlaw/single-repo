@@ -1,0 +1,18 @@
+name:                single-repo
+version:             0.1.0.0
+github:              "waddlaw/single-repo"
+license:             BSD3
+author:              "Shinya Yamguchi"
+maintainer:          "example@example.com"
+copyright:           "2019 Shinya Yamguchi"
+
+extra-source-files:
+- README.md
+
+description:         Please see the README on GitHub at <https://github.com/waddlaw/single-repo#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src

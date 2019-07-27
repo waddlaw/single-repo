@@ -1,0 +1,4 @@
+.stack-work/
+single-repo.cabal
+*~
+stack.yaml.lock
