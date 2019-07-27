@@ -1,4 +1,4 @@
 module Example where
 
 singleExample :: String
-singleExample = "single repo"
+singleExample = "more single repo"
